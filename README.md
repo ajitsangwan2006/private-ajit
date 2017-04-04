@@ -10,3 +10,6 @@ https://github.com/typicode/lowdb
 
 http://onehungrymind.com/build-a-simple-website-with-angular-2/
 https://github.com/simpulton/angular2-website-routes
+
+
+https://plnkr.co/edit/vYQPePG4KDoktPoGaxYu?p=info
